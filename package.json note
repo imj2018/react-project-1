@@ -1,0 +1,10 @@
+/* handles older javascript stuff i.e no need to worry about webpack and babel
+ all relates to npm start, build etc
+*/
+
+"scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
